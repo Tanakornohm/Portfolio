@@ -9,5 +9,5 @@ const data = new mongo.Schema({
 })
 
 
-module.exports = mongo.model('data',data)
+module.exports = mongo.model('data2',data)
 
